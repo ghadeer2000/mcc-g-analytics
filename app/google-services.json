@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "271822542944",
+    "project_id": "fb-storeage",
+    "storage_bucket": "fb-storeage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:271822542944:android:31991e8a9b7d2417b6cb05",
+        "android_client_info": {
+          "package_name": "com.example.fb_storeage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "271822542944-vcpqfva10dufr5g2qsb218em7v410v3c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAIs6SxoBf5fgRyhY69quzieddqjluFQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "271822542944-vcpqfva10dufr5g2qsb218em7v410v3c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
